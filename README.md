@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>Welcome to my GitHub profile!<br><br>🚀 About Me<br>🔭 Currently Working On: AWS-flavored workloads, focusing on performance, reliability, and scalability.<br>🌱 Currently Learning:<br>Principles of Site Reliability Engineering (SRE).<br>System design fundamentals.<br>Advanced automation tools and workflows.<br>👯 Open to Collaborate On:<br>Infrastructure as Code (IaC) projects.<br>Cloud-native applications and observability solutions.<br>🤝 Seeking Guidance In: Starting my journey with open-source contributions.<br>⚡ Fun Fact<br>I'm a firm believer that a well-designed infrastructure is the backbone of innovation and agility in tech!
+Hi there! 👋<br>Welcome to my GitHub profile!<br><br>🔭 Currently Working On: AWS-flavored workloads, focusing on performance, reliability, and scalability.<br>🌱 Currently Learning:<br>Principles of Site Reliability Engineering (SRE).<br>System design fundamentals.<br>Advanced automation tools and workflows.<br>👯 Open to Collaborate On:<br>Infrastructure as Code (IaC) projects.<br>Cloud-native applications and observability solutions.<br>🤝 Seeking Guidance In: Starting my journey with open-source contributions.<br>⚡ Fun Fact<br>I'm a firm believer that a well-designed infrastructure is the backbone of innovation and agility in tech!
 
 
 ## 🌐 Socials:
