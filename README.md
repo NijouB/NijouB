@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi there! 👋  
-Welcome to my GitLab profile!  
+Welcome to my Github profile!  
 
 ---
 
